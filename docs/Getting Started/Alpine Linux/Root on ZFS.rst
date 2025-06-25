@@ -22,6 +22,8 @@ Alpine Linux Root on ZFS
     apk update
     apk add alpine-conf curl
 
+
+
 **ZFSBootMenu**
 
 `ZFSBootMenu <https://zfsbootmenu.org>`__ is an alternative bootloader
@@ -29,6 +31,10 @@ free of such limitations and has support for boot environments. Do not
 follow instructions on this page if you plan to use ZBM,
 as the layouts are not compatible.  Refer
 to their site for installation details.
+
+**Alpinebox**
+
+`Alpinebox <https://github.com/psy0rz/alpinebox>`__ is an automated installer for that implements the guide below and more, with ZFSBootMenu integrated.
 
 **Customization**
 
